@@ -40,10 +40,7 @@ class Home extends StatelessWidget {
                   child: SizedBox(
                     width: 90,
                     height: 130,
-                    child: Image.asset(
-                      'images/tartaruga.png',
-                      // fit: BoxFit.cover,
-                    ),
+                    child: Image.asset('assets/images/tartaruga.png'),
                   ),
                 ),
               ),
